@@ -2,7 +2,6 @@
 
 This project is a fire and smoke detection system using Arduino. It's designed to detect fire, smoke, and high temperatures, and take automatic actions such as activating a fan, water pump, buzzer, and sending SMS/calls via SIM800L. It also displays readings on an LCD I2C.
 
-![Arduino Image](./ArduinoImage.jpeg)
 
 ## 📌 Features
 
